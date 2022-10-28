@@ -9,6 +9,7 @@ I have about 4 years of experience in web application development in a product c
 * 🌍  I'm based in Viet Nam
 * 🖥️  See my portfolio at [Thien Le Minh | Kenji Aktio](http:///thienlm.com/)
 * ✉️  You can contact me at [kenjiakito@gmail.com](mailto:kenjiakito@gmail.com)
+* 🚀  I'm currently working on [Chainity](http://chainity.org)
 * ⚡  𝙙𝙚𝙫 / 𝙥𝙝𝙤𝙩𝙤 / 𝙧𝙖𝙥 / 𝙗𝙡𝙤𝙜 / 𝙜𝙪𝙞𝙩𝙖𝙧
 
 <a href="https://www.twitter.com/_LeMinhThien" target="_blank" rel="noreferrer"><img
