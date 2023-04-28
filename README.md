@@ -7,7 +7,7 @@ Web Developer and Designer
 I have about 4 years of experience in web application development in a product company. I am fortunate to be involved in most of my company's end-to-end software development processes.
 
 * 🌍  I'm based in Viet Nam
-* 🖥️  See my portfolio at [Thien Le Minh | Kenji Aktio](http:///thienlm.com/)
+* 🖥️  See my portfolio at [Thien Le Minh | Kenji Akito](http:///thienlm.com/)
 * ✉️  You can contact me at [kenjiakito@gmail.com](mailto:kenjiakito@gmail.com)
 * 🚀  I'm currently working on [Chainity](http://chainity.org)
 * ⚡  𝙙𝙚𝙫 / 𝙥𝙝𝙤𝙩𝙤 / 𝙧𝙖𝙥 / 𝙗𝙡𝙤𝙜 / 𝙜𝙪𝙞𝙩𝙖𝙧
